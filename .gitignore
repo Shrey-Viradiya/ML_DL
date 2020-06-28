@@ -1,3 +1,4 @@
 Datasets
 venv
 .ipynb_checkpoints
+*.deb
